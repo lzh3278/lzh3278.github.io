@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Zhenghao He(何征昊)",
+    "name": "Zonghan Li (李宗瀚)",
     "label": "",
     "image": "",
-    "email": "wff7ad@virginia.edu",
+    "email": "zh-li22@mails.tsinghua.edu.cn",
     "phone": "",
-    "url": "https://zhenghao-he.github.io/",
+    "url": "https://lzh3278.github.io/",
     "summary": "",
     "location": {
       "address": "",
@@ -16,48 +16,50 @@
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "Zhenghao-He",
-        "url": "https://github.com/Zhenghao-He"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "education": [
     {
-      "institution": "Tongji University, Shanghai, China",
-      "location": "Shanghai, China",
-      "url": "https://en.tongji.edu.cn/p/#/",
-      "area": "Compter Science and Technology",
-      "studyType": "Bachlor of Science",
-      "startDate": "2020-09-01",
+      "institution": "Tsinghua University",
+      "location": "Beijing, China",
+      "url": "https://www.tsinghua.edu.cn/en/",
+      "area": "Environmental System Analysis",
+      "studyType": "Master of Science",
+      "startDate": "2022-09-01",
       "endDate": "present",
-      "score": "",
-      "courses": ["Computer Architecture", "Data Structures", "Computer Networks"]
+      "score": "3.97 / 4.00",
+      "courses": ["Environmental Economics", "Theories and Methods of Environmental System Modelling", "Quantitative Methods for Policy Evaluation", "Machine learning"]
+    },
+    {
+      "institution": "China University of Petroleum",
+      "location": "Beijing, China",
+      "url": "https://www.cup.edu.cn/english/",
+      "area": "Energy Economy",
+      "studyType": "Bachelor of Economics",
+      "startDate": "2018-09-01",
+      "endDate": "2022-07-01",
+      "score": "92.45 / 100.00",
+      "courses": ["Energy Economics", "Energy Finance", "Econometrics"]
     }
   ],
   "work": [
     {
-      "name": "Alibaba Cloud",
-      "position": "AI Model Optimization Intern",
-      "url": "https://www.alibabacloud.com/",
-      "startDate": "2024-03-05",
+      "name": "Microsoft Research Asia",
+      "position": "Intern in Computional Sustainability",
+      "url": "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/",
+      "startDate": "2024-07-01",
       "endDate": "present",
-      "summary": "Responsible for GPU fault prediction, AI Agents research, and other related tasks.",
-      "highlights": ["AI Agents", "GPU fault prediction"]
-    },
-    {
-      "name": "Shanghai Research Institute for Intelligent Autonomous Systems",
-      "position": "Research Assistant",
-      "url": "https://srias.tongji.edu.cn/main.htm",
-      "startDate": "2022-06-27",
-      "endDate": "2022-09-28",
-      "summary": "Assisted Prof. Zhongpan Zhu in preparing teaching materials on the topic of bionic robots. Draft a patent under the instruction of the professor - Algorithm of Generating Heat Map for Driver's Attention ",
-      "highlights": ["RA", "Patent Drafting"]
+      "summary": "",
+      "highlights": ["AI Agents", "Large Language Models"]
     }
   ],
   "awards": [
     {
-      "title": "2nd Prize (National Level) in 2022 Embedded System Design Invitational Contest (Intel Cup)",
+      "title": "National Scholarship",
       "date": "2022-08-24",
       "awarder": "National College Student Electronic Design Competition Organizing Committee",
       "url": "https://nuedc.sjtu.edu.cn/EN/Default.aspx",
