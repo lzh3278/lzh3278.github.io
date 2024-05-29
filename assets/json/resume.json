@@ -139,18 +139,37 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Policy Analysis",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Statistical causal inference",
+        "Machine learning"
       ]
-    }
+    },
+    {
+      "name": "Behavioural Analysis and Simulation",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Social Surveying",
+        "Random Controlled Trails Designing",
+        "Structural Equation Modelling", 
+        "Agent-based Modelling Based on LLMs."
+      ]
+    },
+    {
+      "name": "Programming and Softwares",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "R",
+        "STATA", 
+        "TABLEAU",
+        "MPLUS"
+      ]
+    },
   ],
   "languages": [
     {
