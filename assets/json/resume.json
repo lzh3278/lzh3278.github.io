@@ -4,14 +4,24 @@
     "label": "Master's Student",
     "image": "",
     "email": "zh-li22@mails.tsinghua.edu.cn",
-    "phone": "(86) 151-4112-3278",
-    "url": "https://lzh3278.github.io",
+    "phone": "",
+    "url": "https://lzh3278.github.io/",
+    "summary": "",
     "location": {
       "address": "Sino-Italian Environment and Energy-efficient Building, 30th Shuangqing Road",
       "postalCode": "100084",
       "city": "Beijing",
-      "countryCode": "China"
+      "countryCode": "China",
+      "region": ""
     },
+  },
+  "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
   },
   "education": [
     {
@@ -45,7 +55,7 @@
       "startDate": "2024-07",
       "endDate": "2025-01 (exp.)",
       "summary": "",
-      "highlights": [""]
+      "highlights": ["AI agents"]
     }
   ],
   "volunteer": [
@@ -171,8 +181,8 @@
     }
   ],
   "languages": [
-    {
-      "language": "German",
+   {
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
