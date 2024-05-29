@@ -1,36 +1,52 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Zonghan Li",
+    "label": "Master's Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "zh-li22@mails.tsinghua.edu.cn",
+    "phone": "(86) 151-4112-3278",
+    "url": "https://lzh3278.github.io",
+    "research area": "Environmental social science",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Sino-Italian Environment and Energy-efficient Building, 30th Shuangqing Road",
+      "postalCode": "100084",
+      "city": "Beijing",
+      "countryCode": "China",
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "location": "Beijing, China",
+      "url": "https://www.tsinghua.edu.cn/",
+      "area": "Environmental System Analysis",
+      "studyType": "Master",
+      "startDate": "2022-08",
+      "endDate": "2025-06 (exp.)",
+      "score": "3.97 / 4.00",
+      "courses": ["Advanced Statistics"]
+    },
+    {
+      "institution": "China University of Petroleum",
+      "location": "Beijing, China",
+      "url": "https://www.cup.edu.cn/",
+      "area": "Energy Economy",
+      "studyType": "Undergraduate",
+      "startDate": "2018-08",
+      "endDate": "2022-06",
+      "score": "92.45 / 100.00",
+      "courses": ["Energy Economics"]
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Microsoft Research Asia",
+      "position": "Intern in Computional Sustainability",
+      "url": "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/",
+      "startDate": "2024-07",
+      "endDate": "2025-01 (exp.)",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "volunteer": [
@@ -43,19 +59,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
