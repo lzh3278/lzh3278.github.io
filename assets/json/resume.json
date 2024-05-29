@@ -24,7 +24,7 @@
       "startDate": "2022-08",
       "endDate": "2025-06 (exp.)",
       "score": "3.97 / 4.00",
-      "courses": ["Advanced Statistics"]
+      "courses": ["Theories and Methods of Environmental System Modelling", "Quantitative Methods for Policy Evaluation", "Advanced Statistics", "Machine Learning Applications"]
     },
     {
       "institution": "China University of Petroleum",
@@ -35,7 +35,7 @@
       "startDate": "2018-08",
       "endDate": "2022-06",
       "score": "92.45 / 100.00",
-      "courses": ["Energy Economics"]
+      "courses": ["Energy Economics", "Energy Finance", "Econometrics", "Microeconomics", "Macroeconomics"]
     }
   ],
   "work": [
