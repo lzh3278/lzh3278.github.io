@@ -60,16 +60,58 @@
   "awards": [
     {
       "title": "National Scholarship",
-      "date": "2022-08-24",
-      "awarder": "National College Student Electronic Design Competition Organizing Committee",
-      "url": "https://nuedc.sjtu.edu.cn/EN/Default.aspx",
+      "date": "2023",
+      "awarder": "Ministry of Education of China",
+      "url": "",
       "summary": ""
     },
     {
-      "title": "Bronze Medal in China International College Students' Innovation Competition(CICSIC)",
-      "date": "2022-05-01",
-      "awarder": "Tongji University",
-      "url": "https://cy.ncss.cn/",
+      "title": "Best Yong Scientist Oral Presentation",
+      "date": "2023",
+      "awarder": "International Conference on Resource Sustainability (ICRS2023)",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding Undergraduate Thesis of Beijing",
+      "date": "2022",
+      "awarder": "Beijing Municipal Education Commission",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding Graduate of Beijing",
+      "date": "2022",
+      "awarder": "Beijing Municipal Education Commission",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Dean’s Scholarship",
+      "date": "2021",
+      "awarder": "China University of Petroleum",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Merit Student of Beijing",
+      "date": "2021",
+      "awarder": "Beijing Municipal Education Commission",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "National Scholarship",
+      "date": "2021",
+      "awarder": "Ministry of Education of China",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "National Scholarship",
+      "date": "2020",
+      "awarder": "Ministry of Education of China",
+      "url": "",
       "summary": ""
     }
   ],
