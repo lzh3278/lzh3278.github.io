@@ -66,6 +66,61 @@
       "highlights": ["Water-energy Nexus", "Environmental Risk Perceptions", "Household Consumption Behaviors"]
     }
   ],
+  "publications": [
+    {
+      "name": "A Music Labeling Model Based on Traditional Chinese Music Characteristics for Emotional Regulation",
+      "publisher": "Association for Computing Machinery",
+      "releaseDate": "2023-02-23",
+      "url": "https://doi.org/10.1145/3587828.3587837",
+      "summary": "This paper aims to use feature engineering to find effective music features which are effective for classifying different types of music and thus to try to provide an automatic recognition framework for building music libraries that can be used for mood regulation and music therapy. "
+    },
+    {
+      "name": "Alzheimer's Disease Early Diagnosis Based on Resting-State Dynamic Functional Connectivity",
+      "publisher": "Association for Computing Machinery",
+      "releaseDate": "2023-02-23",
+      "url": "https://doi.org/10.1145/3587828.3587881",
+      "summary": "Functional magnetic resonance imaging (fMRI) technology has been widely used in the diagnosis of Alzheimer's disease, but there are some problems such as high data dimension and unclear characteristics. The nonlinear complex network of different brain regions based on the Lyapunov exponents and approximate entropy are extracted in this work."
+    },
+    {
+      "name": "Conditional Domain Adaptation Based on Initial Distribution Discrepancy for EEG Emotion Recognition",
+      "publisher": "Springer Nature Switzerland",
+      "releaseDate": "2023-01-10",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-23179-7_8",
+      "summary": "How to integrate data in different feature spaces and distributions is a research hotspot in EEG-based emotion recognition. A novel source-domain adaptation strategy based on initial distribution differences for EEG emotion recognition is proposed, which selects several source domains that are most similar to the target domain for domain adaptation."
+    },
+    {
+      "name": "Comparison Of Different Machine Learning Methods Applied To Obesity Classification",
+      "publisher": "IEEE",
+      "releaseDate": "2022-08-05",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9943193",
+      "summary": "The article tries to find a model that can predict obesity and provides people with the information of how to avoid overweight. To be more specific, this article applied dimension reduction to the data set to simplify the data and tried to Figure out a most decisive feature of obesity through Principal Component Analysis (PCA) based on the data set."
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "BrainBeats",
+      "summary": "Design and implement a portable single-channel EEG fatigue detection device.",
+      "image": "logo.png",
+      "highlights": ["EEG Signal Processing", "Fatigue Detection"],
+      "startDate": "2023-03-01",
+      "endDate": "2024-04-15",
+      "url": "https://github.com/Zhenghao-He/BrainBeats"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Good",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "C++",
+        "Verilog",
+        "Java"
+      ]
+    }
+  ],
   "awards": [
     {
       "title": "National Scholarship",
@@ -122,61 +177,6 @@
       "awarder": "Ministry of Education of China",
       "url": "",
       "summary": ""
-    }
-  ],
-  "publications": [
-    {
-      "name": "A Music Labeling Model Based on Traditional Chinese Music Characteristics for Emotional Regulation",
-      "publisher": "Association for Computing Machinery",
-      "releaseDate": "2023-02-23",
-      "url": "https://doi.org/10.1145/3587828.3587837",
-      "summary": "This paper aims to use feature engineering to find effective music features which are effective for classifying different types of music and thus to try to provide an automatic recognition framework for building music libraries that can be used for mood regulation and music therapy. "
-    },
-    {
-      "name": "Alzheimer's Disease Early Diagnosis Based on Resting-State Dynamic Functional Connectivity",
-      "publisher": "Association for Computing Machinery",
-      "releaseDate": "2023-02-23",
-      "url": "https://doi.org/10.1145/3587828.3587881",
-      "summary": "Functional magnetic resonance imaging (fMRI) technology has been widely used in the diagnosis of Alzheimer's disease, but there are some problems such as high data dimension and unclear characteristics. The nonlinear complex network of different brain regions based on the Lyapunov exponents and approximate entropy are extracted in this work."
-    },
-    {
-      "name": "Conditional Domain Adaptation Based on Initial Distribution Discrepancy for EEG Emotion Recognition",
-      "publisher": "Springer Nature Switzerland",
-      "releaseDate": "2023-01-10",
-      "url": "https://link.springer.com/chapter/10.1007/978-3-031-23179-7_8",
-      "summary": "How to integrate data in different feature spaces and distributions is a research hotspot in EEG-based emotion recognition. A novel source-domain adaptation strategy based on initial distribution differences for EEG emotion recognition is proposed, which selects several source domains that are most similar to the target domain for domain adaptation."
-    },
-    {
-      "name": "Comparison Of Different Machine Learning Methods Applied To Obesity Classification",
-      "publisher": "IEEE",
-      "releaseDate": "2022-08-05",
-      "url": "https://ieeexplore.ieee.org/abstract/document/9943193",
-      "summary": "The article tries to find a model that can predict obesity and provides people with the information of how to avoid overweight. To be more specific, this article applied dimension reduction to the data set to simplify the data and tried to Figure out a most decisive feature of obesity through Principal Component Analysis (PCA) based on the data set."
-    }
-  ],
-
-  "projects": [
-    {
-      "name": "BrainBeats",
-      "summary": "Design and implement a portable single-channel EEG fatigue detection device.",
-      "image": "logo.png",
-      "highlights": ["EEG Signal Processing", "Fatigue Detection"],
-      "startDate": "2023-03-01",
-      "endDate": "2024-04-15",
-      "url": "https://github.com/Zhenghao-He/BrainBeats"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Programming",
-      "level": "Good",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C++",
-        "Verilog",
-        "Java"
-      ]
     }
   ],
   "languages": [
