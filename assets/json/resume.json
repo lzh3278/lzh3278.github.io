@@ -68,18 +68,18 @@
   ],
   "publications": [
     {
-      "name": "A Music Labeling Model Based on Traditional Chinese Music Characteristics for Emotional Regulation",
-      "publisher": "Association for Computing Machinery",
-      "releaseDate": "2023-02-23",
-      "url": "https://doi.org/10.1145/3587828.3587837",
-      "summary": "This paper aims to use feature engineering to find effective music features which are effective for classifying different types of music and thus to try to provide an automatic recognition framework for building music libraries that can be used for mood regulation and music therapy. "
+      "name": "Enhancing the explanation of household water consumption through the water-energy nexus concept",
+      "publisher": "npj Clean Water",
+      "releaseDate": "2024-02",
+      "url": "https://www.nature.com/articles/s41545-024-00298-6",
+      "summary": "This study attempts to explain household water consumption by establishing estimation models, incorporating energy-related features as inputs and providing strong evidence of the need to consider the water-energy nexus to explain water consumption."
     },
     {
-      "name": "Alzheimer's Disease Early Diagnosis Based on Resting-State Dynamic Functional Connectivity",
-      "publisher": "Association for Computing Machinery",
-      "releaseDate": "2023-02-23",
-      "url": "https://doi.org/10.1145/3587828.3587881",
-      "summary": "Functional magnetic resonance imaging (fMRI) technology has been widely used in the diagnosis of Alzheimer's disease, but there are some problems such as high data dimension and unclear characteristics. The nonlinear complex network of different brain regions based on the Lyapunov exponents and approximate entropy are extracted in this work."
+      "name": "Residential water and energy consumption prediction at hourly resolution based on a hybrid machine learning approach",
+      "publisher": "Water Research",
+      "releaseDate": "2023-11",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0043135423011739",
+      "summary": "This study proposed a novel hybrid machine learning model based on the Prophet time-series model, Gated Recurrent Unit network, and self-adaptive weights, which could jointly include historical water and electricity consumption as inputs for hourly water or electricity prediction."
     },
     {
       "name": "Conditional Domain Adaptation Based on Initial Distribution Discrepancy for EEG Emotion Recognition",
